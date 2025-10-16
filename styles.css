@@ -110,20 +110,6 @@ body::-webkit-scrollbar {
     background: rgba(255, 255, 255, 0.1);
 }
 
-.hamburger {
-    display: none;
-    flex-direction: column;
-    cursor: pointer;
-}
-
-.hamburger span {
-    width: 25px;
-    height: 3px;
-    background: #fff;
-    margin: 3px 0;
-    transition: 0.3s;
-}
-
 /* Hero Section */
 .hero {
     height: 100vh;
