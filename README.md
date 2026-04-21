@@ -72,8 +72,8 @@ My Portfolio/
 - **CEO-CMO Presentation Script**: [Live Demo](https://ceo-cmo-presentation-script.netlify.app/) | [GitHub](https://github.com/Dip556/CEO-CMO-Presentation-script)
 
 ## 📞 Get In Touch
-- **Email**: halderdipanjan043@gmail.com
-- **Phone**: +91 62914 76180
+- **Email**: halderdipanjan556@gmail.com
+- **Phone**: +91 62914 XXXXX
 - **Location**: Kolkata, India
 - **Socials**:
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dip556)
